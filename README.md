@@ -1,7 +1,7 @@
+Hello World!
 datasciencecoursera
 ===================
 
-Hello World!
 Coursera - The Data Scientist's Toolbox
 mkdir ~/Hello-World
 # Creates a directory for your project called "Hello-World" in your user directory
